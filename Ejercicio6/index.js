@@ -21,3 +21,14 @@ for (const nota of notasfor) {
 }
 
 console.log("La suma total con bucle for of es:", sumaForOf);
+
+// Bucle for in
+
+let notasin = [6, 7, 2, 9, 3, 4, 5, 8, 2];
+
+
+for (const nota in notasin) {
+
+}
+
+console.log("La posicion de cada elemento es:", notasin);
